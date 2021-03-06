@@ -53,11 +53,11 @@ const Contact = () => {
                 <button className="btn btn-outline-primary" type="submit">Submit Form</button>
               </div>
             </form>
-    <br/><br/>
+    
           </div>
         </div>
       </div>
-
+<br/><br/>
     </>
   );
 };
